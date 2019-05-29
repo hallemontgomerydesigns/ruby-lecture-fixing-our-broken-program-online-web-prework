@@ -6,3 +6,4 @@ describe 'A broken program' do
     }.to raise_error
   end
 
+end
